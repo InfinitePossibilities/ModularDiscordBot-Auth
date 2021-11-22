@@ -2,7 +2,8 @@
   "name": "modulardiscordbot-auth",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/auth.js",
+  "main": "./dist/auth.js",
+  "types": "./dist/auth.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
